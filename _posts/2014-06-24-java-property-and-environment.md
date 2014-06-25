@@ -1,8 +1,7 @@
 ---
 ---
 
-Properties and Environment in JVM
-=================================
+# Properties and Environment in JVM
 
 ## Properties
 
