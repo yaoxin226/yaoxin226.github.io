@@ -54,7 +54,7 @@ Save and close file. To see limits take effect, need to relogin, then enter:
 	ulimit -Hn # Hard limit
 	ulimit -Sn # Soft limit
 
-## CHeck limit of a running process
+## Check limit of a running process
 
 Find pid
 
