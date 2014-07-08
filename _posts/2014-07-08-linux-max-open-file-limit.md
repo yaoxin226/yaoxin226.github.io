@@ -1,11 +1,13 @@
 ---
 layout: global
-title: Max open file limit in linux
+title: Max open file limit in ubuntu 10.04
 ---
 
 # Max open file limit in linux
 
 ## System level
+
+This only changes how many file can be open totally in this system. For each user, should addtional change user level settings.
 
 ### Change runtime
 
