@@ -56,6 +56,16 @@ Save and close file. To see limits take effect, need to relogin, then enter:
 	ulimit -Hn # Hard limit
 	ulimit -Sn # Soft limit
 
+
+## Change all the user
+
+    * soft nofile 50000
+    * hard nofile 50000
+    root soft nofile 50000
+    root hard nofile 50000
+
+Add * line for reguler users. For root, add two lines for it.
+
 ## Check limit of a running process
 
 Find pid
